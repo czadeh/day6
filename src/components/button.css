@@ -1,0 +1,19 @@
+.btn {
+    background-color: blueviolet;
+    color: white;
+    font-size: large;
+    margin-top: 50px;
+    border-radius: 25px;
+    padding: 10px;
+    width: 100px;
+    margin-left: 50px;
+    justify-self: center;
+}
+
+.btn:hover{
+    background-color: gray;
+}
+
+.btn:active{
+    background-color: red;
+}
